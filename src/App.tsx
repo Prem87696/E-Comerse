@@ -30,7 +30,7 @@ export default function App() {
   // Core Authorized User Session State
   // Initialized to Prem Kumar (Verified Buyer) so dashboards populate instantly for demonstration.
   const [user, setUser] = useState<{ name: string; email: string; role: 'buyer' | 'seller' | 'admin' } | null>({
-    name: 'Prem Kumar',
+    name: 'jugal Kishor',
     email: 'customer@shopnexa.com',
     role: 'buyer'
   });
