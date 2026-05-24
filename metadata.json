@@ -1,0 +1,6 @@
+{
+  "name": "ShopNexa Marketplace",
+  "description": "A premium modern multi-vendor e-commerce marketplace featuring robust customer, vendor, and platform dashboards with beautiful interface elements, direct search, customizable cart, and integrated checkout workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
