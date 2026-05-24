@@ -40,7 +40,7 @@ export const Header: React.FC<HeaderProps> = ({
   ];
 
   return (
-    <header className="sticky top-0 z-40 bg-white border-b border-slate-200/80 shadow-sm w-full" id="shopnexa-header">
+    <header className="sticky top-0 left-0 z-[9999] bg-white border-b border-slate-200/80 shadow-sm w-full">
       {/* Top Banner Offer */}
       <div className="bg-slate-900 text-white py-1 px-4 text-center font-medium tracking-wide flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-2">
         <span className="bg-amber-500 text-slate-950 font-bold px-1.5 py-0.5 rounded text-[10px] uppercase self-center shrink-0">Summer Deal</span>
