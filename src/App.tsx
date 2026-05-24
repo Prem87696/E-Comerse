@@ -185,7 +185,7 @@ export default function App() {
       />
 
       {/* Main Responsive Canvas container */}
-      <main className="flex-1 max-w-7xl mx-auto w-full px-4 lg:px-6 py-8 pb-24 md:pb-12">
+      <main className="flex-1 max-w-7xl mx-auto w-full px-4 lg:px-6 pt-[160px] pb-24 md:pb-12">
         {currentView === 'home' && (
           <HomeView
             products={productsList}
